@@ -1,0 +1,12 @@
+Database one
+db name: hotel
+and import xml file
+
+
+Database Two
+Db name : last
+and import xml file
+
+Database Three
+Db name : massage 
+and import xml file
